@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.parados.infernalcarnage;
 
 import java.util.List;
 import java.util.Set;
